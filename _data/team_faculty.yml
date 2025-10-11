@@ -1,0 +1,41 @@
+- name: Amir H. Payberah
+  photo: amir.jpg
+  info: KTH 
+  email: payberah@kth.se
+  web: <a href="https://payberah.github.io/">Webpage</a>
+
+- name: Andrea Botero Cabrera
+  photo: andrea.jpg
+  info: Aalto University
+  email: andrea.botero@aalto.fi
+  web: <a href="https://www.aalto.fi/en/people/andrea-botero-cabrera">Webpage</a>
+  
+- name: Nina Grünberger
+  photo: nina.jpg
+  info: TU Darmstadt
+  email: nina.gruenberger@tu-darmstadt.de
+  web: <a href="https://www.abpaed.tu-darmstadt.de/pid/arbeitsbereich_pid/team_pid/details_75904.en.jsp">Webpage</a>
+
+- name: Jonathan Starker
+  photo: jonathan.jpg
+  info: TU Darmstadt
+  email: jonathan.starker@stud.tu-darmstadt.de
+  web: <a href="https://www.abpaed.tu-darmstadt.de/pid/arbeitsbereich_pid/team_pid/details_84096.de.jsp">Webpage</a>
+  
+- name: Julia Stroh
+  photo: julia.jpg
+  info: TU Darmstadt
+  email: julia.stroh@tu-darmstadt.de
+  web: <a href="https://www.abpaed.tu-darmstadt.de/pid/arbeitsbereich_pid/team_pid/details_64192.en.jsp">Webpage</a>
+
+- name: Jyrki Nummisto
+  photo: jyrki.jpg
+  info: Aalto University
+  email: jyrki.nummisto@aalto.fi
+  web: <a href="https://www.linkedin.com/in/jyrki-nummisto-061438b6/?originalSubdomain=fi">Webpage</a>
+  
+- name: Pia Hornickel
+  photo: pia.jpg
+  info: TU Darmstadt
+  email: pia.hornickel@stud.tu-darmstadt.de
+  web: <a href="https://www.abpaed.tu-darmstadt.de/pid/arbeitsbereich_pid/team_pid/details_80320.de.jsp">Webpage</a>
