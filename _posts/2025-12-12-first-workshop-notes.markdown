@@ -5,7 +5,7 @@ date:   2025-12-12
 author: ColibrAI team
 categories: blog
 ---
-<div style="text-align:center;"><img src="/images/spivak.png" style="width:50%;"></div>
+<div style="text-align:center;"><img src="/images/blog2.jpg" style="width:60%;"></div>
 
 <p align="justify">
 The first ColibrAI introductory meeting on Nov. 24 brought the group together to explore what it means to approach AI from a justice-oriented perspective. Using ecofeminism as our starting point, we explored the idea that AI is not just a technical system but a structure of power that determines whose voices matter, whose needs are prioritized, and whose lives or environments are made visible or ignored. Although AI often appears neutral, we discussed how it encodes social and political values, reproducing hierarchies that long predate the technology itself.
