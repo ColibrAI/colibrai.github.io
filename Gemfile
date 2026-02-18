@@ -1,12 +1,16 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem 'jekyll', '~> 4.2.0'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+group :jekyll_plugins do
+  gem 'jekyll-archives', '~> 2.2.1'
+  gem 'jekyll-feed', '~> 0.15.1'
+  gem 'jekyll-paginate', '~> 1.1.0'
+  gem 'jekyll-seo-tag', '~> 2.7.1'
+  gem 'jekyll-sitemap', '~> 1.4.0'
+end
 
-# gem "rails"
-
-gem 'jekyll', '~> 3.9'
-gem "kramdown", ">= 2.3.0"
-gem "kramdown-parser-gfm"
-gem "ffi", "< 1.17.0"
+gem "webrick", "~> 1.8"
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
