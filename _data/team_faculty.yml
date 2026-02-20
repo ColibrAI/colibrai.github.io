@@ -9,12 +9,18 @@
   info: Aalto University
   email: andrea.botero@aalto.fi
   web: <a href="https://www.aalto.fi/en/people/andrea-botero-cabrera">Webpage</a>
-  
+
 - name: Nina Grünberger
   photo: nina.jpg
+  info: University of Innsbruck
+  email: nina.gruenberger@uibk.ac.at
+  web: <a href="https://www.uibk.ac.at/de/ifd/bereich-medigb/team/grunberger/">Webpage</a>
+
+- name: Alexandra Karentzos
+  photo: alexandra.jpg
   info: TU Darmstadt
-  email: nina.gruenberger@tu-darmstadt.de
-  web: <a href="https://www.abpaed.tu-darmstadt.de/pid/arbeitsbereich_pid/team_pid/details_75904.en.jsp">Webpage</a>
+  email: alexandra.karentzos@tu-darmstadt.de
+  web: <a href="https://www.mode.tu-darmstadt.de/modeaesthetik/team_ma/alexandrakarentzos/cv.en.jsp">Webpage</a>
 
 - name: Derya Akbaba
   photo: derya.png

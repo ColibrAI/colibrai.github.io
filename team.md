@@ -19,12 +19,15 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
   {{ member.email }}
   <br>{{ member.web }}
   <br>{{ member.since }}
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
