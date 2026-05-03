@@ -28,4 +28,11 @@
 <url>
 <loc>http://localhost:4000/plan/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/reports/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/files/report1.pdf</loc>
+<lastmod>2026-05-03T16:25:40+02:00</lastmod>
+</url>
 </urlset>
