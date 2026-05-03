@@ -4,7 +4,7 @@ title: Reports
 permalink: /reports/
 ---
 
-<div style="text-align:center;"><img src="/images/about.jpg" width="1200" height="200" alt="About"></div>
+<div style="text-align:center;"><img src="/images/reports.jpg" width="1200" height="200" alt="About"></div>
 
 <br>
 
